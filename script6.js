@@ -1,10 +1,8 @@
 console.log("normal for loop....");
 
-for(let i=1;i<5;i++){
+for(int i=0;i,5;i++){
       console.log(i);
-
 }
-
 
 let obj={
     name:"abc",
